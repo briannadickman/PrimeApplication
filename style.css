@@ -1,7 +1,10 @@
 body {
-  font-family: arial;
+  font-family: 'Signika Negative', sans-serif;
 }
 
 h1 {
   font-family: 'Cabin Sketch', cursive;
+  font-size: 90px;
 }
+
+
