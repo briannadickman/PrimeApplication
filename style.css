@@ -17,10 +17,18 @@ h3 {
 
 .contact {
   border-style: solid;
+  border-width: 1px;
   border-color: #404040;
   background-color: #024959;
   margin: 15px 15px 15px 15px;
   padding: 10px 10px 10px 10px;
   float: right;
+}
+
+.main { 
+  border-style: solid;
+  border-width: 1px;
+  border-color: #404040;
+  background-color: #024959;
 }
 
