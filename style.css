@@ -13,7 +13,6 @@ body {
 h1 {
   font-family: 'Cabin Sketch', cursive;
   font-size: 60px;
-  padding: 35px 0px 0px 0px;
 }
 
 h3 {
@@ -28,14 +27,14 @@ ul {
 }
 
 .col-2 {
-  width: 60%;
+  width: 59%;
   text-align: center;
   float: right;
 }
 
 .col-1 {
   background-color: #F24C27;
-  width: 40%;
+  width: 39%;
   text-align: center;
   float: right;
 
