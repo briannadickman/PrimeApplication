@@ -1,39 +1,59 @@
 body {
-  background-color: #F2EFDC;
+  background: linear-gradient(
+    to right,
+    #F24C27 0%,
+    #F24C27 40%,
+    #F2EFDC 40%,
+    #F2EFDC 100%
+    );
   font-family: 'Signika Negative', sans-serif;
   font-size: 20px;
 }
 
 h1 {
-  margin: 30px 50px 50px 50px;
-  padding: 15px 15px 15px 15px;
   font-family: 'Cabin Sketch', cursive;
-  font-size: 90px;
+  font-size: 60px;
+  padding: 35px 0px 0px 0px;
 }
 
 h3 {
   font-size: 32px;
+  letter-spacing: 2px;
+  line-height: 1px;
+  text-transform: lowercase;
+}
+
+ul {
+  padding: 5px;
+}
+
+.col-1 {
+  background-color: #F24C27;
+  width: 39%;
+  height: 100%;
+  text-align: center;
+
+.col-2 {
+  width: 59%;
+  height: 100%;
+  float: right;
+  display: inline-block;
 }
 
 .contact {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #404040;
-  background-color: #024959;
-  width: 45%;
-  height: 200px;
-  padding: 0px 10px 0px 10px;
-  float: right;
+
 }
 
-.main { 
-  border-style: solid;
-  border-width: 1px;
-  border-color: #404040;
-  background-color: #024959;
-  width: 45%;
-  height: 500px;
+.intro {
+  font-size: 18px;
+  padding: 30px 20px 30px 20px;
+}
+
+.main {
   margin: 15px 15px 15px 15px;
   padding: 0px 10px 0px 10px;
 }
 
+.sub {
+  padding: 10px 0px 10px 0px;
+}
