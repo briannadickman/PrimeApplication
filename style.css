@@ -27,20 +27,17 @@ ul {
   padding: 5px;
 }
 
-.col-1 {
-  background-color: #F24C27;
-  width: 39%;
-  height: 100%;
+.col-2 {
+  width: 60%;
   text-align: center;
   float: right;
-
-.col-2 {
-  width: 59%;
-  height: 100%;
-  float: right;
-  display: inline-block;
-  float: right;
 }
+
+.col-1 {
+  background-color: #F24C27;
+  width: 40%;
+  text-align: center;
+  float: right;
 
 .contact {
 
