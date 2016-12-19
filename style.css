@@ -32,6 +32,10 @@ ul {
   float: right;
 }
 
+img {
+  padding: 40px 0px 10px 0px;
+}
+
 .col-1 {
   background-color: #F24C27;
   width: 39%;
