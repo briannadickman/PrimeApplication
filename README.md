@@ -2,4 +2,4 @@
 Experience with HTML/CSS and some Javascript at this point.
 
 ## Website: 
-https://briannadickman.github.io/briannadickman.github.io/
+https://briannadickman.github.io/
