@@ -1,9 +1,3 @@
-#
-Experience with HTML/CSS and some Javascript at this point.
-
-## Website: 
-https://briannadickman.github.io/
-
 # Profile and Resume in HTML/CSS
 #### Resume for Applcation to Prime Digital Academy
 
