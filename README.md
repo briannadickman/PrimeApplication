@@ -29,4 +29,4 @@ This will be the only version at this point.
 
 ## Authors
 
-* **Brianna Dickman** - [BriMarieDesign] (https://brimariedesign.com)
+* **Brianna Dickman** - (https://github.com/briannadickman)
